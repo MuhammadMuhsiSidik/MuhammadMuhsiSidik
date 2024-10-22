@@ -3,6 +3,12 @@
 A passionate Data Scientist and Machine Learning Engineer from Indonesia
 
 ![Profile views](https://komarev.com/ghpvc/?username=MuhammadMuhsiSidik&label=Profile%20views&color=0e75b6&style=flat) 
+### Achievements
+
+| Repositories | Followers | Experience | Commits | Stars | Pull Requests | Issues | Reviews |
+|--------------|-----------|------------|---------|-------|---------------|--------|---------|
+| ![Repo Badge](https://img.shields.io/badge/Ultra%20Repo%20Creator-50pt-brightgreen) | ![Followers Badge](https://img.shields.io/badge/Dynamic%20User-42pt-blue) | ![Experience Badge](https://img.shields.io/badge/Intermediate%20Dev-11pt-yellow) | ![Commits Badge](https://img.shields.io/badge/Middle%20Committer-62pt-lightgrey) | ![Stars Badge](https://img.shields.io/badge/First%20Star-5pt-orange) | ![Pull Badge](https://img.shields.io/badge/First%20Pull-1pt-red) | ![Issues Badge](https://img.shields.io/badge/Unknown-0pt-lightgrey) | ![Reviews Badge](https://img.shields.io/badge/Unknown-0pt-lightgrey) |
+
 
 ### About Me
 - 🔭 I’m currently working on various Machine Learning projects and exploring Generative AI.
