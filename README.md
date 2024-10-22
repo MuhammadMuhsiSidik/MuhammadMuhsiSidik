@@ -7,7 +7,7 @@ A passionate Data Scientist and Machine Learning Engineer from Indonesia
 ### About Me
 - 🔭 I’m currently working on various Machine Learning projects and exploring Generative AI.
 - 🌱 I’m passionate about exploring new technologies and their applications in Data Science.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/muhammad-muhsi-sidik26) | [Email](mailto:gmuhsisidik@gmail.com) | [WhatsApp](http://wa.me/6289698885045)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/muhammad-muhsi-sidik26) | [Email](mailto:gmuhsisidik@gmail.com) 
 
 ### Mission
 I have a mission to provide an end-to-end learning path for Data Science, Machine Learning, and AI.
@@ -43,3 +43,10 @@ I have a mission to provide an end-to-end learning path for Data Science, Machin
 
 ### Contact
 Feel free to reach out via my [LinkedIn](https://www.linkedin.com/in/muhammad-muhsi-sidik26), [Medium](https://medium.com/@gmuhsisidik), or [GitHub](https://github.com/MuhammadMuhsiSidik).
+![Profile views](https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat)
+![Muhammad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Avatar](https://path-to-your-image/avatar.png)
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical)
+
+
+
