@@ -1,14 +1,17 @@
-# Hi 👋, I'm Muhammad Muhsi Sidik
+<h1 align="center">Hi 👋, I'm Muhammad Muhsi Sidik</h1>
+<h3 align="center">An aspiring Data Scientist and Machine Learning Enthusiast from Indonesia</h3>
 
-A passionate Data Scientist and Machine Learning Engineer from Indonesia
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=gmuhsisidik&label=Profile%20views&color=0e75b6&style=flat" alt="gmuhsisidik" />
+</p>
 
-![Profile views](https://komarev.com/ghpvc/?username=MuhammadMuhsiSidik&label=Profile%20views&color=0e75b6&style=flat) 
-### Achievements
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=gmuhsisidik" alt="gmuhsisidik" />
+  </a>
+</p>
 
-| Repositories | Followers | Experience | Commits | Stars | Pull Requests | Issues | Reviews |
-|--------------|-----------|------------|---------|-------|---------------|--------|---------|
-| ![Repo Badge](https://img.shields.io/badge/Ultra%20Repo%20Creator-50pt-brightgreen) | ![Followers Badge](https://img.shields.io/badge/Dynamic%20User-42pt-blue) | ![Experience Badge](https://img.shields.io/badge/Intermediate%20Dev-11pt-yellow) | ![Commits Badge](https://img.shields.io/badge/Middle%20Committer-62pt-lightgrey) | ![Stars Badge](https://img.shields.io/badge/First%20Star-5pt-orange) | ![Pull Badge](https://img.shields.io/badge/First%20Pull-1pt-red) | ![Issues Badge](https://img.shields.io/badge/Unknown-0pt-lightgrey) | ![Reviews Badge](https://img.shields.io/badge/Unknown-0pt-lightgrey) |
-
+<img align="right" alt="Coding" width="400" src="https://assets-global.website-files.com/5c19100c2b50073e6ee69da1/60d35967a853a1b14851703b_All%20the%20data%20(1).gif" />
 
 ### About Me
 - 🔭 I’m currently working on various Machine Learning projects and exploring Generative AI.
